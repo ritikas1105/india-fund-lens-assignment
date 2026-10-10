@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "extracted_at": "2026-10-09T19:20:56.080669+00:00",
+  "files": [
+    {
+      "name": "119063.json",
+      "url": "https://api.mfapi.in/mf/119063",
+      "sha256": "865ed0741a2b162762f934161f0e145524d7eb7ec88965308026622d068192b6",
+      "bytes": 134315
+    },
+    {
+      "name": "120716.json",
+      "url": "https://api.mfapi.in/mf/120716",
+      "sha256": "4bcd9c6bffa3d20fe25bf375db7f113cfb163801e134d10262b0f9a2e91e06e5",
+      "bytes": 133770
+    },
+    {
+      "name": "118482.json",
+      "url": "https://api.mfapi.in/mf/118482",
+      "sha256": "3ccd9906b863248e1d7cd46b0e132521b3751ab270ebb7398d658357601b036b",
+      "bytes": 132784
+    },
+    {
+      "name": "120684.json",
+      "url": "https://api.mfapi.in/mf/120684",
+      "sha256": "c0e4ab30aabe0666c6c73f287bb8a2af030fca7b3ada50d5209e29b25efe89cd",
+      "bytes": 132404
+    },
+    {
+      "name": "143341.json",
+      "url": "https://api.mfapi.in/mf/143341",
+      "sha256": "1bebd99998f8aeaed8ac007ba8d209897960f6cbeb79c7a6f13b26c97e64093d",
+      "bytes": 79335
+    },
+    {
+      "name": "141877.json",
+      "url": "https://api.mfapi.in/mf/141877",
+      "sha256": "c92be337ecc3dc550cd775de4421a0307abee9b2b25c4e11ed8a6b90badfb20f",
+      "bytes": 85910
+    },
+    {
+      "name": "amfi.txt",
+      "url": "https://portal.amfiindia.com/spages/NAVAll.txt",
+      "sha256": "481d72172192d6ef5f9278efd163681ae78f858b78fe25af271f52a52b450986",
+      "bytes": 1520600
+    }
+  ],
+  "errors": []
+}
